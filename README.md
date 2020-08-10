@@ -70,3 +70,10 @@ Bullet points are okay, too
 Typically a hyphen or asterisk is used for the bullet, preceded by a single space, with blank lines in between, but conventions vary here
 If you use an issue tracker, put references to them at the bottom, like this: Resolves: #123 See also: #456, #789 And if your commit is just a simple thing, then make the message very short, but not just a title
 Happy hacking!!!!
+
+CHALLENGES FACED
+1. Poor communication - Some team mates could not communicate effectively in this project. Miscommunication, misinterpretation, misunderstanding were the main reasons/challenges.
+2. Lack of proper planning
+3. Indecisive decision-maker(s) - The ones who are supposed to provide a clear path to success end up having no idea what path to take. 
+4. Low engagement - Team engagement is crucial to the success of the project. Team members who are engaged are interested in what they do, committed to the team mission, willing to going the extra mile. They are there in body as well as mentally and emotionally. The key to engagement is involvement; by involving others you make it impossible to stay detached.
+
